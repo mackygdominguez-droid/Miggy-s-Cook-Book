@@ -1,0 +1,144 @@
+{
+  "miggy_export": true,
+  "export_format": "MIGGY_FILE_PACKAGE",
+  "export_version": "1.0.0",
+  "kind": "project",
+  "workspace_type": "USER_PROJECT",
+  "project": {
+    "name": "Cook Book App",
+    "id": "6abd29e58d3f87a261b5d40e"
+  },
+  "source_version": "v0.1.1",
+  "exported_at": "2026-09-30T15:29:54.402Z",
+  "file_count": 15,
+  "total_bytes": 54082,
+  "files": [
+    {
+      "path": "index.html",
+      "size": 755,
+      "sha256": "27278cc045205341b780611709d47f93240552db60e8f9b6e7e58cb8675f4fcc",
+      "chunks": 1,
+      "redacted": false,
+      "language": "html"
+    },
+    {
+      "path": "package.json",
+      "size": 534,
+      "sha256": "b530dd2d2ae0f53d88151b62f6aebf8576e0f3df0ad4ca5b314463f8aa098576",
+      "chunks": 1,
+      "redacted": false,
+      "language": "json"
+    },
+    {
+      "path": "postcss.config.js",
+      "size": 80,
+      "sha256": "190c877db466995bf1482f4a16abd06e04a89ede3119341e2a86ff96e1737b27",
+      "chunks": 1,
+      "redacted": false,
+      "language": "javascript"
+    },
+    {
+      "path": "src/App.jsx",
+      "size": 3753,
+      "sha256": "52c4cc1a7a8631602d5a190f1c582580214e1179ae551de7c3b85c26d483d880",
+      "chunks": 1,
+      "redacted": false,
+      "language": "javascript"
+    },
+    {
+      "path": "src/components/AddRecipeModal.jsx",
+      "size": 14342,
+      "sha256": "7d232152ccaea845e74e9c54bd2c0e8ad8b8dacebc861ab68e5992928414624f",
+      "chunks": 1,
+      "redacted": false,
+      "language": "javascript"
+    },
+    {
+      "path": "src/components/FavoritesView.jsx",
+      "size": 2372,
+      "sha256": "220789bbe0e7541f59e154a737da4f5a12b895ac612e4f05355eb131856082c5",
+      "chunks": 1,
+      "redacted": false,
+      "language": "javascript"
+    },
+    {
+      "path": "src/components/Navbar.jsx",
+      "size": 4198,
+      "sha256": "055fe3f5da74330fe23f10cebb51746d14a5fd252a2e68dda7e1647166784dfa",
+      "chunks": 1,
+      "redacted": false,
+      "language": "javascript"
+    },
+    {
+      "path": "src/components/RecipeCard.jsx",
+      "size": 3464,
+      "sha256": "7ff20bb5532506d6756f5e8eb64b967368457ee8a993cd67343cd60c84260131",
+      "chunks": 1,
+      "redacted": false,
+      "language": "javascript"
+    },
+    {
+      "path": "src/components/RecipeDetail.jsx",
+      "size": 13027,
+      "sha256": "3b1a40d8f537f9c767f30008462d0a3f7945657d91cb59619981b8f8be58312d",
+      "chunks": 1,
+      "redacted": false,
+      "language": "javascript"
+    },
+    {
+      "path": "src/components/RecipeList.jsx",
+      "size": 4185,
+      "sha256": "bcaa8e150a0d766baaa1b03826fee7eac9fb2f6a039fd82cc8a29e7ae6615c84",
+      "chunks": 1,
+      "redacted": false,
+      "language": "javascript"
+    },
+    {
+      "path": "src/data/initialRecipes.js",
+      "size": 6340,
+      "sha256": "c6a6536309fa908585cd1a9fd429a4bb474ca1fddeed957daeb8b2b1c18210d8",
+      "chunks": 1,
+      "redacted": false,
+      "language": "javascript"
+    },
+    {
+      "path": "src/index.css",
+      "size": 474,
+      "sha256": "5d468c082b58c202e13da64f77851fb597a6f57de196609f4c69c53f37a6595e",
+      "chunks": 1,
+      "redacted": false,
+      "language": "css"
+    },
+    {
+      "path": "src/main.jsx",
+      "size": 240,
+      "sha256": "e7ec9302596619c362c864ba1e1732807596b478554381032f0e27971666cabe",
+      "chunks": 1,
+      "redacted": false,
+      "language": "javascript"
+    },
+    {
+      "path": "tailwind.config.js",
+      "size": 182,
+      "sha256": "2248bf828c19499e4a34a9d6696bc862cd53989239b7b4a61a76eef20bfacb79",
+      "chunks": 1,
+      "redacted": false,
+      "language": "javascript"
+    },
+    {
+      "path": "vite.config.js",
+      "size": 136,
+      "sha256": "0709465427668ae85ef999f63762d7a06fd92962363fe8cc142ad656d3548115",
+      "chunks": 1,
+      "redacted": false,
+      "language": "javascript"
+    }
+  ],
+  "metadata": {
+    "description": "",
+    "status": "active",
+    "dev_state": "PARTIALLY_VERIFIED",
+    "entry_file": "/index.html",
+    "root": "cook-book-app"
+  }
+}
